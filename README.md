@@ -15,7 +15,7 @@ FROM leothecat/kubernetes:latest
  
  1. 登录DockerCloud
     
-    > https://cloud.docker.com/swarm/leothecat/repository/docker/leothecat/kubernetes/builds
+    > https://cloud.docker.com/
   
  2. 创建一个Repo
  
